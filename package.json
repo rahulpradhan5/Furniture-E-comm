@@ -1,0 +1,31 @@
+{
+  "name": "furniture-e-comm",
+  "version": "1.0.0",
+  "description": "E-commerce Website ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulpradhan5/Furniture-E-comm.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "website"
+  ],
+  "author": "Rahul Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulpradhan5/Furniture-E-comm/issues"
+  },
+  "homepage": "https://github.com/rahulpradhan5/Furniture-E-comm#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
+  }
+}
